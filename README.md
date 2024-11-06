@@ -1,4 +1,11 @@
-## Hi there 👋
+## Congratulations! You found me! Welcome to my GitHub, it's nice to have you here.
+
+My name is Ben. I work as a chemistry teacher and academic intervention analyst in a high school. I love the challenge of explaining complex ideas and helping people gain new insights through good communication and clear data synthesis.
+Much of the data I work with involves student grades, attendance, enrollment, and test scores, which I use to determine which subgroups of students are struggling and what supports are needed to get them back on track. At my school, 
+I'm involved anywhere data can be used to answer questions, summarize information, and solve problems. I've created dashboards to keep an eye 
+on key metrics and systems to pull necessary information together quickly to enable quick decision-making. Some of the tools I've used include Excel, SQL, Python, Tableau, and PowerBI. Please have a look around at some of the projects 
+I've worked on and reach out to learn more.
+
 
 <!--
 **byergs/byergs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
