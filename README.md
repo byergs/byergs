@@ -6,6 +6,20 @@ I'm involved anywhere data can be used to answer questions, summarize informatio
 on key metrics and systems to pull necessary information together quickly to enable quick decision-making. Some of the tools I've used include Excel, SQL, Python, Tableau, and PowerBI. Please have a look around at some of the projects 
 I've worked on and reach out to learn more.
 
+# Ben's Data Projects
+
+## [Student Grade Map](https://github.com/byergs/Student-Grade-Map-Project)
+
+### Excel | SQL | Python | Tableau
+
+### Can student addresses be used to predict in advance which incoming freshmen are more likely to fail courses?
+
+ - GPS coordinates were linked to student addresses and the number of failed courses for each student was calculated in SQL Server
+     * Student address coordinates were adjusted to protect privacy but preserve approximate distribution
+
+![image](https://github.com/user-attachments/assets/1eade7ec-39f1-4589-bdae-e2a8d703d187) ![image](https://github.com/user-attachments/assets/a149741b-94ef-4f40-ae39-fcb54951a16b)
+
+
 
 <!--
 **byergs/byergs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
