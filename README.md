@@ -19,6 +19,14 @@ I've worked on and reach out to learn more.
 
 ![image](https://github.com/user-attachments/assets/1eade7ec-39f1-4589-bdae-e2a8d703d187) ![image](https://github.com/user-attachments/assets/a149741b-94ef-4f40-ae39-fcb54951a16b)
 
+## [Resource Room Usage]
+
+### Excel (Pivot Tables)
+
+### What classes are represented most by students utilizing the Math Resource Room?
+
+- Room attendance data was linked by student ID to school roster data to capture math courses of students checking in to get math support
+
 
 
 <!--
