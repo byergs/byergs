@@ -26,13 +26,10 @@ Click the link of each section to see more about that project.
 
 ### What Resource Rooms are used most often by students seeking help with classwork?
 
+- Resource Rooms are a space in the building that students can utilize during their lunch period to get help with course work from content area teachers and peer tutors (Juniors and Seniors in Advanced Level Classes)
 - Room attendance data was linked by student ID to school roster data to capture math courses of students checking in to get math support
   
-![image](https://github.com/user-attachments/assets/d20c3240-aa60-44fb-9a9c-7fd9535e566e)
-
-- Very few seniors utilize the Resource Rooms
-- Sophomores utilize the Resource Rooms more than any other class
-- About 10% of sign-ins to Resource Center and Math Resource are Freshmen						
+![image](https://github.com/user-attachments/assets/d20c3240-aa60-44fb-9a9c-7fd9535e566e)	
 
 
 <!--
