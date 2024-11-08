@@ -7,6 +7,7 @@ on key metrics and systems to pull necessary information together quickly to ena
 I've worked on and reach out to learn more.
 
 # Some of My Data Projects
+Click the link of each section to see more about that project.
 
 ## [Student Grade Map](https://github.com/byergs/Student-Grade-Map-Project)
 
@@ -32,25 +33,6 @@ I've worked on and reach out to learn more.
 - Very few seniors utilize the Resource Rooms
 - Sophomores utilize the Resource Rooms more than any other class
 - About 10% of sign-ins to Resource Center and Math Resource are Freshmen						
-
-### What math classes are represented most by students seeking help specifically in the Math Resource Room?		
-
- - In exploring ways to help freshmen in particular, we wanted to know if freshman math classes were well represented in those getting help in the Math Resource Room.
-   
-![image](https://github.com/user-attachments/assets/d46d4006-8837-4185-8ccc-c7f22cb1f9f3)
- - Courses are somewhat evenly represented across the range of skill level
- - The top 5 courses account for 74% of sign-ins
-    - All 5 are taught by teachers that staff the Math Resource Room, suggesting that the teachers chosen to staff it draw certain students
-
-### How many different students are getting help for each Math course?								
- - Number of Sign-ins isn't the same as the number of students, as one student can sign in once and another a dozen times.
-
-![image](https://github.com/user-attachments/assets/f75bd408-e024-4246-a0cc-31bf3cbb6ba0)
-
-- Classes have similar rates of unique students (no course has more sign-ins per student)
-- 193 Students have used Math Resource 960 times (5 Sign-Ins per student)
-- Half of all Sign-ins are from 26 students
-- 79 students have signed in only once
 
 
 <!--
