@@ -31,7 +31,7 @@ Click the link of each section to see more about that project.
   
 ![image](https://github.com/user-attachments/assets/d20c3240-aa60-44fb-9a9c-7fd9535e566e)	
 
-## [Grade Distributions](https://github.com/byergs/Resource-Room-Usage.git)
+## [Grade Distributions](https://github.com/byergs/Grade-Distribution.git)
 
 ### Excel: Pivot Tables & Power Query | Tableau
 
