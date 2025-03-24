@@ -19,7 +19,29 @@ Click the link of each section to see more about that project.
      * Student address coordinates were adjusted to protect privacy but preserve approximate distribution
 
 ![image](https://github.com/user-attachments/assets/1eade7ec-39f1-4589-bdae-e2a8d703d187) ![image](https://github.com/user-attachments/assets/a149741b-94ef-4f40-ae39-fcb54951a16b)
+## [Freshman Failure Prediction Model](https://github.com/byergs/FreshmanFails.git)
 
+### Python | Power BI
+
+### Can we use demographic, assessment, course placement, and grade data to predict freshmen who will need additional support?
+ - Assessment and demographic data of the previous year's 8th graders was merged with their grades as freshmen the next year.
+ - Numerical data points were checked for correlation to student's GPAs and their numbers of Ds and Fs in their first high school semester.
+![image](https://github.com/byergs/byergs.github.io/blob/main/images/Heatmap.png)
+
+ - Categorical data was plotted in numerous ways to view relationships between GPA, Ds and Fs, and categorical data.
+ ![image](https://github.com/byergs/byergs.github.io/blob/main/images/Code%20for%20Box%20Plots.png)
+ ![image](https://github.com/byergs/byergs.github.io/blob/main/images/Box%20Plots.png)
+
+ - Criteria were given a set of weight values to create a risk rating, which was checked for correlation with GPA and Ds and Fs.
+ ![image](https://github.com/byergs/byergs.github.io/blob/main/images/Risk%20Rating%20Tally.png)
+
+ Here's the first attempt at correlating the RisK Rating to GPAs.
+ 
+ ![image](https://github.com/byergs/byergs.github.io/blob/main/images/Rating%20vs%20GPA.png)
+
+More details will be added soon, as I am still in the middle of this project. Here's a little preview of where it's headed:
+![image](https://github.com/byergs/byergs.github.io/blob/main/images/Code%20for%20Correlation%20Checker.png)
+   
 ## [Resource Room Usage](https://github.com/byergs/Resource-Room-Usage.git)
 
 ### Excel (Pivot Tables)
