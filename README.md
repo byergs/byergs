@@ -35,7 +35,7 @@ Click the link of each section to see more about that project.
  - Criteria were given a set of weight values to create a risk rating, which was checked for correlation with GPA and Ds and Fs.
  ![image](https://github.com/byergs/byergs.github.io/blob/main/images/Risk%20Rating%20Tally.png)
 
- Here's the first attempt at correlating the RisK Rating to GPAs.
+ Here's the first attempt at correlating the Risk Rating to GPAs.
  
  ![image](https://github.com/byergs/byergs.github.io/blob/main/images/Rating%20vs%20GPA.png)
 
